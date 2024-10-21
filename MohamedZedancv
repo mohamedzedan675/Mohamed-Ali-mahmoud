@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>السيرة الذاتية - محمد علي</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            direction: rtl;
+            text-align: right;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .contact-info {
+            margin-bottom: 20px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            background: #f9f9f9;
+            margin-bottom: 10px;
+            padding: 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>محمد علي</h1>
+        <p class="contact-info">البحيرة، مصر · +201002851546 · <a href="mailto:mohamedzedan675@gmail.com">mohamedzedan675@gmail.com</a></p>
+
+        <h2>الخبرة</h2>
+        <ul>
+            <li>مهندس مدني - مكتب فن للمقاولات العامة والإنشاءات، برج العرب بالإسكندرية (2021-2020)</li>
+            <li>مهندس مدني - مشروع جليلة بالمنطقة الصناعية بمدينة السادات (2022-2021)</li>
+            <li>مهندس مدني - مشروع سجن وادي النطرون بالطريق الصحراوي (2022-2021)</li>
+            <li>مهندس جودة - شركة سين ميكس للخرسانة الجاهزة (2023-2022)</li>
+        </ul>
+
+        <h2>التعليم</h2>
+        <p>بكالوريوس في الهندسة المدنية، جامعة السويس، يونيو 2021 - بتقدير امتياز.</p>
+
+        <h2>الدورات التدريبية</h2>
+        <ul>
+            <li>MS Office (Word, PowerPoint, Excel)</li>
+            <li>مدقق داخلي معتمد (QMS ISO 9001)</li>
+            <li>AutoCAD SD</li>
+            <li>حصر كميات</li>
+            <li>مراقبة الجودة</li>
+            <li>Shop Drawing</li>
+            <li>SAP 2000</li>
+        </ul>
+
+        <h2>المهارات</h2>
+        <ul>
+            <li>العمل ضمن فريق</li>
+            <li>مهارات تواصل ممتازة</li>
+            <li>إدارة الوقت</li>
+            <li>التفكير التحليلي</li>
+            <li>مهارات الكمبيوتر</li>
+        </ul>
+    </div>
+</body>
+</html>
